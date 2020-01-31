@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
    <head>
      <h1>This is my Website</h1>
